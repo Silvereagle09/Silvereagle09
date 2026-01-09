@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, this is Triveni! 👋
 
-<!--
-**Silvereagle09/Silvereagle09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here’s a little about me and what I enjoy working on.
 
-Here are some ideas to get you started:
+👩‍💻 Third-year Computer Engineering student (Honors in AI & ML)  
+🔐 Interested in Cybersecurity and AI-driven security systems  
+🧠 Curious about how systems work, break, and can be secured  
+📚 Book lover | Problem solver | Builder mindset  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Currently Working On
+- Data Structures & Algorithms using **C++**
+- Cybersecurity fundamentals (networking, logs, threat modeling)
+- AI-powered and interactive web-based projects
+- Learning **Docker** for containerized development
+- Japanese (beginner) 🇯🇵 – daily practice on Duolingo
+
+---
+
+## 🛠 Tech Stack
+**Languages:**  
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,java" />
+  
+
+**Web:**  
+<img src="https://skillicons.dev/icons?i=html,css,js,p" />
+ 
+
+**Databases:** 
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+ 
+---
+
+## 🧰 Tools & Others
+- Microsoft Word – technical documentation & reports  
+- Microsoft PowerPoint – presentations & project demos  
+- Microsoft Excel – data organization and basic analysis  
+- Canva – visual design for posters, presentations, and UI assets
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](https://linkedin.com/in/TriveniJadhav)  
+
+📧 Email: tj8726@gmail.com  
+
+---
+
+⭐ Always learning, always building.
